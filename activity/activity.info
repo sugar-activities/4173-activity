@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Readingh 
+activity_version = 11
+host_version = 1
+service_name = net.gcompris.readinghActivity
+bundle_id = net.gcompris.readinghActivity
+icon = activity-gcompris
+exec = gcompris-activity
+show_launcher = yes
+license = GPLv3+
